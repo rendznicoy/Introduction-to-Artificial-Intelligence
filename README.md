@@ -1,2 +1,2 @@
 # Introduction-to-Artificial-Intelligence
-Contains the SpotiPy app, a music recommendation system that suggest music based on the users mood.
+A simple music recommendation system created using python. It recommends music based on the users mood.
